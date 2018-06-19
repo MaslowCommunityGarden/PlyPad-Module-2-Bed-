@@ -13,12 +13,12 @@ The project was an experiment on multiple fronts with multiple organizations dir
 
 Inside view of bed:
 
-![Inside view of bed](https://github.com/MaslowCommunityGarden/PlyPad-Module-2-Bed-/blob/master/Photos/bed%20inside.jpg)
+![Inside view of bed](https://raw.githubusercontent.com/MaslowCommunityGarden/PlyPad-Module-2-Bed-/master/Photos/bed%20inside.jpg)
 
 Hannah sitting on bed in Kenton:
 
-![](https://github.com/MaslowCommunityGarden/PlyPad-Module-2-Bed-/blob/master/Photos/Hannah%20sitting%20on%20bed.jpg)
+![](https://raw.githubusercontent.com/MaslowCommunityGarden/PlyPad-Module-2-Bed-/master/Photos/Hannah%20sitting%20on%20bed.jpg)
 
 Bed module in Kenton:
 
-![](https://github.com/MaslowCommunityGarden/PlyPad-Module-2-Bed-/blob/master/Photos/Bed%20in%20kenton.jpg)
+![](https://raw.githubusercontent.com/MaslowCommunityGarden/PlyPad-Module-2-Bed-/master/Photos/Bed%20in%20kenton.jpg)
