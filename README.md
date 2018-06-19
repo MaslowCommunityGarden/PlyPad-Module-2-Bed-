@@ -10,6 +10,10 @@ The PlyPad project was a project run by Maslow during the winter of 2017 in coop
 The project was an experiment on multiple fronts with multiple organizations directing the design, and an experimental construction technique and I would not recommend building this design again directly, however many of the lessons learned are valuable and can be easily applied to future projects or an updated and improved version of this design.
 
 
+CAD Overview:
+
+![CAD Overview](https://github.com/MaslowCommunityGarden/PlyPad-Module-2-Bed-/blob/master/Photos/CAD%20Overview.jpg)
+
 
 Inside view of bed:
 
