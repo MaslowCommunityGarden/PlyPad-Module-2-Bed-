@@ -12,7 +12,7 @@ The project was an experiment on multiple fronts with multiple organizations dir
 
 CAD Overview:
 
-![CAD Overview](https://github.com/MaslowCommunityGarden/PlyPad-Module-2-Bed-/blob/master/Photos/CAD%20Overview.jpg)
+![CAD Overview](https://raw.githubusercontent.com/MaslowCommunityGarden/PlyPad-Module-2-Bed-/master/Photos/CAD%20Overview.jpg)
 
 
 Inside view of bed:
